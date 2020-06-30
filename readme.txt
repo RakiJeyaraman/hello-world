@@ -1,4 +1,4 @@
 "Hello!"
-Hello from Senior Raki
+Hello from Raki
 
 READ ME
